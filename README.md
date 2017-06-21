@@ -1,2 +1,2 @@
-# ML-Satellite-image-Classification-Project
-Machine Learning Project
+# Satellite Image Segmentation/Classification
+Using OSM and Mapbox satellite tiles
